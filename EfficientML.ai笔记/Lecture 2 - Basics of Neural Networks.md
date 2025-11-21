@@ -305,7 +305,7 @@
 
 ## 人工神经元
 
-<img src="C:\Users\48291\Desktop\TinyMLFordac\EfficientML.ai笔记\屏幕截图 2025-11-18 093511.png" alt="alt" style="zoom: 40%;" />
+![alt](.\图片\1人工神经元与生物神经元对比.png)
 
 左侧图为生物神经元结构
 
@@ -358,7 +358,7 @@ $$
 
 ### 全连接层（Linear Layer）
 
-<img src="C:\Users\48291\Pictures\Screenshots\屏幕截图 2025-11-20 110209.png" alt="alt" style="zoom:40%;" />
+<img src=".\图片\2全连接层.png" alt="alt" style="zoom:100%;" />
 
 全连接层也叫线性层，核心思想是：
 **每一个输出神经元，都与所有输入神经元相连，并进行一次线性变换**（加权求和加偏置）
